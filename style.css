@@ -365,6 +365,10 @@ article .icon {
   height: 90%;
 }
 
+.img-project {
+  height: 19rem;
+}
+
 .project-title {
   margin: 1rem;
   color: black;
